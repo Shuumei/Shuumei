@@ -1,4 +1,4 @@
-# Metee Thoenburin (ชู)
+# Metee Thoenburin (Shuu)
 
 <p align="left">
   <strong>AI Systems Architect & Lead Software Engineer</strong> · Co-Founder @ <a href="https://unyhub.org">UNYHUB AUTOMATION</a><br>
