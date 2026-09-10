@@ -30,7 +30,7 @@
 
 - **[Bainy (bainy.unyhub.org)](https://bainy.unyhub.org)** — ระบบบัญชีและจัดการค่าใช้จ่ายบน LINE พร้อม OCR & AI Agent (มีลูกค้าจ่ายเงินใช้งานจริง)
 - **[Unyna (unyna.unyhub.org)](https://unyna.unyhub.org)** — LINE Health Assistant รองรับผู้ใช้งานกว่า 900+ คน พร้อม Dual-witness Vision Pipeline อ่านค่าตัวเลขมิเตอร์ดิจิทัล
-- **[Many](https://unyhub.org)** — High-volume Instagram comment/DM automation engine (Rule-based Regex/Trie Matching ทำงานแบบ Deterministic ไม่พึ่งพา LLM เพื่อประหยัดต้นทุนและความเร็วสูงสุด)
+- **[Many] (many.unyhub.org)](https://many.unyhub.org)** — High-volume Instagram comment/DM automation engine (Rule-based Regex/Trie Matching ทำงานแบบ Deterministic ไม่พึ่งพา LLM เพื่อประหยัดต้นทุนและความเร็วสูงสุด)
 
 ---
 
