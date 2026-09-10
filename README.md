@@ -1,7 +1,7 @@
 # Metee Thoenburin (ชู)
 
 <p align="left">
-  <strong>AI Systems Architect & Lead Software Engineer</strong> · Co-Founder @ <a href="https://unyhub.org">UNYHUB Automation</a><br>
+  <strong>AI Systems Architect & Lead Software Engineer</strong> · Co-Founder @ <a href="https://unyhub.org">UNYHUB AUTOMATION</a><br>
   <em>Building deterministic agentic workflows, multi-agent consensus pipelines, and privacy-first edge AI.</em>
 </p>
 
