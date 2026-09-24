@@ -18,14 +18,14 @@
 ### 🏛️ Executive Summary & Engineering Highlights
 
 ```text
-┌─────────────────────────────────┬─────────────────────────────────┬─────────────────────────────────┐
-│     COMMERCIAL TRACTION         │       ACADEMIC FOUNDATION       │      ENGINEERING PARADIGM       │
-├─────────────────────────────────┼─────────────────────────────────┼─────────────────────────────────┤
-│ • Co-Founder @ UNYHUB Auto      │ • B.I.S. 1st Class Honours      │ • Deterministic > Probabilistic │
-│ • 2 Live Commercial AI Systems  │ • GPA: 3.81 / 4.00 (KKU)        │ • Zero Data Leakage (Edge First)│
-│ • 900+ LINE Active Users        │ • Class President & Leadership  │ • High Token ROI / Sub-sec P99  │
-│ • Live Paid Subscription SaaS   │ • Rapid Prototyping Mindset     │ • 100% Client-Side BYOK Systems │
-└─────────────────────────────────┴─────────────────────────────────┴─────────────────────────────────┘
+┌───────────────────────────────────┬─────────────────────────────────┬─────────────────────────────────┐
+│       COMMERCIAL TRACTION         │       ACADEMIC FOUNDATION       │      ENGINEERING PARADIGM       │
+├───────────────────────────────────┼─────────────────────────────────┼─────────────────────────────────┤
+│ • Co-Founder, UNYHUB AUTOMATION   │ • B.I.S. 1st Class Honours      │ • Deterministic > Probabilistic │
+│ • 2 Live Commercial AI Systems    │ • GPA: 3.81 / 4.00 (KKU)        │ • Zero Data Leakage (Edge First)│
+│ • 900+ LINE Active Users          │ • Class President & Leadership  │ • High Token ROI / Sub-sec P99  │
+│ • Live Paid Subscription SaaS     │ • Rapid Prototyping Mindset     │ • 100% Client-Side BYOK Systems │
+└───────────────────────────────────┴─────────────────────────────────┴─────────────────────────────────┘
 ```
 
 > **Engineering Thesis:** *"Deterministic when possible, Probabilistic (LLM) only when necessary."*  
