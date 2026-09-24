@@ -47,14 +47,14 @@
 
 ### ⚡ Commercial Production Track Record
 
-ระบบซอฟต์แวร์จริงที่ออกแบบ สถาปัตย์ และขึ้นระบบ Production ภายใต้ **UNYHUB Automation**:
+ระบบซอฟต์แวร์จริงที่ออกแบบ สถาปัตย์ และขึ้นระบบ Production ภายใต้ **UNYHUB AUTOMATION**:
 
 - 💳 **[Bainy](https://bainy.unyhub.org)** (`bainy.unyhub.org`) — **LINE-Native Accounting SaaS & AI Agent**
   - **Mini-CFO AI Agent:** ให้คำปรึกษา วิเคราะห์ยอดขาย สรุป Cash Flow และแนวโน้มรายรับ-รายจ่ายผ่านแชท
-  - **Smart Receipt OCR:** ไปป์ไลน์ Image Preprocessing (Sharp) + Gemini Flash สกัดบิล/สลิป และภาษี VAT 7% ลงฐานข้อมูล Supabase อัตโนมัติ
+  - **Smart Receipt OCR:** ไปป์ไลน์ Image Preprocessing (Sharp) + Google Gemini สกัดบิล/สลิป และภาษี VAT 7% ลงฐานข้อมูล Supabase อัตโนมัติ
   - **Traction & Monetization:** เชื่อมต่อ Beam Payment Gateway มีผู้ใช้งานจริงแบบ Paid Subscription
 - 🩺 **[Unyna](https://unyna.unyhub.org)** (`unyna.unyhub.org`) — **LINE Health Assistant (900+ Active Users)**
-  - **Dual-Witness Vision Pipeline:** ผสาน OpenAI Vision และ Google Vision ร่วมกันตรวจสอบตัวเลขจากจอ LCD 7-Segment ของเครื่องวัดความดัน ป้องกันปัญหา AI Hallucination
+  - **Dual-Witness Vision Pipeline:** ผสาน OpenAI และ Google Cloud Vision ร่วมกันตรวจสอบตัวเลขจากจอ LCD 7-Segment ของเครื่องวัดความดัน ป้องกันปัญหา AI Hallucination
   - **Health Alert Engine:** ระบบวิเคราะห์แนวโน้มสุขภาพ พร้อมแจ้งเตือนรอบตรวจวัดประจำวันและวันนัดพบแพทย์อัตโนมัติ
 - ⚡ **[Many](https://many.unyhub.org)** (`many.unyhub.org`) — **High-Throughput Social Automation Engine**
   - **Deterministic Rule Engine:** ระบบตอบกลับคอมเมนต์และส่งต่อเป็น Instagram DM อัตโนมัติสำหรับแบรนด์
@@ -74,12 +74,13 @@
 
 #### **🤖 AI, Agent Systems & Vision Pipelines**
 <p align="left">
-  <img src="https://img.shields.io/badge/Claude%20Code%20%2F%20Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/OpenAI%20Vision-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Google%20Gemini%20Flash-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini Flash">
+  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Vision-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Vision">
   <img src="https://img.shields.io/badge/Zod%20Schema%20Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Isolated%20Web%20Workers-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Web Workers">
+  <img src="https://img.shields.io/badge/Web%20Workers%20API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Web Workers API">
 </p>
 
 #### **⚡ Frontend & Edge Engineering**
