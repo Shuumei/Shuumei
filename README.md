@@ -68,48 +68,68 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,astro,tailwind,nodejs,py,postgres,supabase,redis,prisma,cloudflare,vercel,git,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,astro,vite,threejs,tailwind,nodejs,py,php,laravel,postgres,supabase,sqlite,redis,prisma,cloudflare,docker,git,postman" />
   </a>
 </p>
 
-#### **🤖 AI, Agent Systems & Vision Pipelines**
+#### **🤖 AI Systems, Vision & Local Models**
 <p align="left">
   <img src="https://img.shields.io/badge/Anthropic%20Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
   <img src="https://img.shields.io/badge/Google%20Cloud%20Vision-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Vision">
-  <img src="https://img.shields.io/badge/Zod%20Schema%20Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
+  <img src="https://img.shields.io/badge/Ollama%20(Local%20LLM)-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Zod%20Schema%20Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
   <img src="https://img.shields.io/badge/Web%20Workers%20API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Web Workers API">
+  <img src="https://img.shields.io/badge/n8n%20Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
 </p>
 
-#### **⚡ Frontend & Edge Engineering**
+#### **⚡ Frontend, Build Systems & 3D Web**
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript%20(Strict)-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Next.js%20(App%20Router)-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Astro%205-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS%20v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Three.js%20%2F%20R3F-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly">
 </p>
 
-#### **🗄️ Backend, Database & Infrastructure**
+#### **🗄️ Backend, Databases & ORM**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP%20%2F%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Supabase%20(RLS)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
 </p>
 
-#### **☁️ Cloud, Ecosystem & Operations**
+#### **☁️ Cloud Infrastructure, Networking & Observability**
 <p align="left">
-  <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Cloudflare%20Workers%20%26%20KV-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/LINE%20Messaging%20API%20%26%20LIFF-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE API">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Tailscale%20(Mesh%20VPN)-4B5563?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic Stack">
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry">
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub%20Actions-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+#### **🔌 Enterprise Integrations, BI & Protocol**
+<p align="left">
+  <img src="https://img.shields.io/badge/LINE%20Messaging%20API%20%26%20LIFF-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE API">
+  <img src="https://img.shields.io/badge/Looker%20Studio%20(BI)-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio">
+  <img src="https://img.shields.io/badge/Meta%20Graph%20API-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Graph API">
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
 ```text
@@ -117,8 +137,9 @@
 │ ARCHITECTURE RADAR                                                                             │
 ├──────────────────────────┬─────────────────────────────────────────────────────────────────────┤
 │ AI & Agentic Systems     │ Multi-Agent Consensus, Zod Validation, Function Calling / Tool Use │
-│ Frontend & Edge Stack    │ Next.js App Router, TypeScript Strict, Astro 5, Tailwind, Workers  │
-│ Backend & Infrastructure │ Node.js, Python, PostgreSQL, Redis, Supabase, Prisma                │
+│ Frontend & Edge Stack    │ Next.js App Router, Vite, React 19, Three.js, Astro 5, Workers     │
+│ Backend & Infrastructure │ Node.js, Python, Laravel, PostgreSQL, Redis, SQLite, Supabase RLS   │
+│ DevOps, Cloud & Network  │ Cloudflare Workers/KV, Tailscale Mesh VPN, Docker, Prometheus       │
 │ Tooling & Workflow       │ Claude Code (Daily Engineering), Git, Vercel, LINE LIFF, REST       │
 └──────────────────────────┴─────────────────────────────────────────────────────────────────────┘
 ```
