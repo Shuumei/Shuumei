@@ -128,6 +128,31 @@ Architected, implemented, and deployed under **UNYHUB AUTOMATION**:
 
 ---
 
+## 🚀 What I'm Shipping (Active Pipeline & Focus)
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🛠️ Live Engineering Pipeline</h3>
+<ul>
+  <li><strong>AI Root Cause Debug Analyst:</strong> Synthetic runtime error injection & deterministic stack trace triage demo.</li>
+  <li><strong>SHUUVIS v2:</strong> Cloudflare Worker agent gateway with low-latency LLM telemetry logging.</li>
+  <li><strong>TradingView Strategy Scripts:</strong> Quantitative statistical edge indicators.</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3>💡 Current Engineering Focus</h3>
+<ul>
+  <li><strong>Zero-Cost & BYOK Web Architectures:</strong> High-leverage client-side intelligence running entirely in-browser.</li>
+  <li><strong>Claude Code Mastery:</strong> Pushing agentic coding workflows to 10x developer throughput.</li>
+  <li><strong>Multi-Model Consensus:</strong> Eliminating AI blind spots through cross-witness verification.</li>
+</ul>
+</td>
+</tr>
+</table>
+
+---
+
 ## 💻 Skills & Technology Stack
 
 <p align="left">
@@ -220,17 +245,6 @@ Architected, implemented, and deployed under **UNYHUB AUTOMATION**:
 │ Tooling & Workflow       │ Claude Code (Daily Engineering), Git, Figma, Vercel, LINE, Discord  │
 └──────────────────────────┴─────────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 📈 Activity & Contribution Signal
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Shuumei contribution activity heatmap" />
-</picture>
-</p>
 
 ---
 
