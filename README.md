@@ -1,265 +1,172 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER & ARCHITECTURE SIGNAL BRIEF · Shuumei</sub></p>
+<sub>AI-ASSISTED FULL-STACK DEVELOPER · BANGKOK, THAILAND</sub>
+
 <h1>Metee Thoenburin (Shuu)</h1>
-<h3>AI Systems Architect · Co-Founder & Founding Engineer @ <a href="https://unyhub.org" target="_blank">UNYHUB AUTOMATION</a></h3>
-<p><em>Designing deterministic agentic workflows, multi-agent consensus verification, and privacy-preserving edge architectures.</em></p>
-<p><strong>● Daily Engineering Workflow powered by Claude Code</strong></p>
+
+<h3>Co-Founder & Founding Engineer @ <a href="https://unyhub.org">UNYHUB Automation</a></h3>
+
+<p>I build LLM features that run in production — and put a second check in front of anything the model writes.<br />
+<sub>Claude Code is my daily engineering workflow: I write the spec, review the diff and test every change.</sub></p>
 
 <p>
-  <a href="https://metee.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-metee.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/metee-th" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-metee--th-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:metee.thoe@gmail.com"><img src="https://img.shields.io/badge/Email-metee.thoe%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/1st%20Class%20Honours-GPA%203.81%20%7C%20KKU-10B981?style=flat-square&logo=academia&logoColor=white" alt="Honours">
+  <a href="https://metee.vercel.app"><img src="https://img.shields.io/badge/Portfolio-metee.vercel.app-0a0d11?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:metee.thoe@gmail.com"><img src="https://img.shields.io/badge/Email-metee.thoe%40gmail.com-2563eb?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/KKU%202026-First--Class%20Honours%20·%20GPA%203.81-eab308?style=flat-square" alt="First-Class Honours, GPA 3.81" />
+  <img src="https://img.shields.io/badge/Available-immediately-16a34a?style=flat-square" alt="Available immediately" />
 </p>
-</td>
-<td width="36%" valign="middle" align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="220px" alt="Shuu animated ASCII portrait" />
-</picture>
-</td>
-</tr>
-</table>
 
 </div>
 
-## 🧭 What Technical Teams Can Evaluate Quickly
+---
+
+## What teams can evaluate quickly
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 <h3>🎯 Role fit</h3>
-<p><strong>AI-Assisted Full-Stack Architect</strong><br>
-<sub>Deterministic agentic systems & edge privacy architectures.</sub></p>
+<p><strong>AI-Assisted Full-Stack Developer</strong><br />
+<sub>Applied AI / LLM engineering on Next.js, TypeScript and Supabase.</sub></p>
 </td>
 <td width="33%" valign="top">
 <h3>🔬 Public proof</h3>
-<p><strong>3 Verified Live Repositories</strong><br>
-<sub>Zero-cost BYOK demos, automated unit tests, strict TypeScript.</sub></p>
+<p><strong>3 open-source demos, live</strong><br />
+<sub>Strict TypeScript, client-side, bring-your-own-key. Read the code, then try it.</sub></p>
 </td>
 <td width="33%" valign="top">
-<h3>⚡ Commercial traction</h3>
-<p><strong>2 Production AI Products</strong><br>
-<sub>900+ active users & live paid subscription accounting SaaS.</sub></p>
+<h3>⚡ In production</h3>
+<p><strong>2 AI products with real users</strong><br />
+<sub>Bainy has paying customers · Unyna has 900+ LINE OA followers.</sub></p>
 </td>
 </tr>
 </table>
-
-<p><sub>Designing deterministic agentic workflows, multi-agent consensus verification, and privacy-preserving edge architectures.</sub></p>
-
-## 📊 Proof at a Glance
 
 <table width="100%">
 <tr>
-<td width="25%" align="center"><strong>3</strong><br /><sub>Live Open Systems</sub></td>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Commercial SaaS in Prod</sub></td>
-<td width="25%" align="center"><strong>900+</strong><br /><sub>LINE Active Users</sub></td>
-<td width="25%" align="center"><strong>3.81</strong><br /><sub>GPA 1st Class Honours</sub></td>
+<td width="25%" align="center"><h2>2</h2><sub>AI products in production</sub></td>
+<td width="25%" align="center"><h2>900+</h2><sub>LINE OA followers on Unyna</sub></td>
+<td width="25%" align="center"><h2>3</h2><sub>open-source demos, live</sub></td>
+<td width="25%" align="center"><h2>3.81</h2><sub>GPA · First-Class Honours</sub></td>
 </tr>
 </table>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Shuu GitHub proof metrics" />
-</picture>
-</p>
+---
+
+## ⚡ Production work at UNYHUB
+
+<sub>Closed source — these live in private company repositories. The live systems are linked.</sub>
+
+| System | What it is | Engineering worth a look |
+|---|---|---|
+| 💳 **[Bainy](https://bainy.unyhub.org)** | LINE-native expense & accounting SaaS — **paying customers** | Receipt OCR (Sharp preprocessing + Gemini Flash) into a strict JSON schema, so the model classifies and the code does the arithmetic · Mini-CFO chat agent · multi-tenant, every query scoped to the organization · Beam payment subscriptions |
+| 🩺 **[Unyna](https://unyna.unyhub.org)** | LINE health assistant for families — **900+ LINE OA followers** | Dual-witness vision for 7-segment blood-pressure displays: OpenAI Vision reads first, Google Vision is called only when the reading looks doubtful, and if the two disagree the user confirms — nothing is guessed |
+| 🛡️ **SHUUVIS** | My personal command center for AI agents and production | Watches every Claude Code session live · a Cloudflare Worker health-checks each system every minute, opens a Discord incident, and an agent drafts the fix as a PR that only merges after I approve · local LLMs via Ollama |
+| ⚡ **[Many](https://many.unyhub.org)** | Instagram comment-to-DM automation, used in-house | Deliberately **rule-based**, with no model in the decision path, so every rule can be read and audited · scheduled metric snapshots for content analysis |
 
 ---
 
-### 🏛️ Executive Summary & Engineering Highlights
+## 🔬 Open-source demos
 
-```text
-┌───────────────────────────────────┬─────────────────────────────────┬─────────────────────────────────┐
-│       COMMERCIAL TRACTION         │       ACADEMIC FOUNDATION       │      ENGINEERING PARADIGM       │
-├───────────────────────────────────┼─────────────────────────────────┼─────────────────────────────────┤
-│ • Co-Founder, UNYHUB AUTOMATION   │ • B.I.S. 1st Class Honours      │ • Deterministic > Probabilistic │
-│ • 2 Live Commercial AI Systems    │ • GPA: 3.81 / 4.00 (KKU)        │ • Zero Data Leakage (Edge First)│
-│ • 900+ LINE Active Users          │ • Class President & Leadership  │ • High Token ROI / Sub-sec P99  │
-│ • Live Paid Subscription SaaS     │ • Rapid Prototyping Mindset     │ • 100% Client-Side BYOK Systems │
-└───────────────────────────────────┴─────────────────────────────────┴─────────────────────────────────┘
-```
-
-> **Engineering Thesis:** *"Deterministic when possible, Probabilistic (LLM) only when necessary."*  
-> Relying on LLMs for end-to-end decisions in production leads to hallucination risks, unmaintainable token costs, and high latency. I design systems where **Strict Schema Validation (Zod), Multi-Agent Consensus Gating, and Finite State Machines (FSM)** form the deterministic core—confining LLMs exclusively to structured extraction and unstructured intent processing.
-
----
-
-## 🔬 Featured Selected Work (Open Source Systems)
+<sub>Small modules lifted out of real problems above, rebuilt in public.</sub>
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&repos=Shuumei%2Focr-dual-witness-pipeline%2CShuumei%2Fedge-privacy-csv-analyst%2CShuumei%2Fllm-structured-booking-agent&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&repos=Shuumei%2Focr-dual-witness-pipeline%2CShuumei%2Fedge-privacy-csv-analyst%2CShuumei%2Fllm-structured-booking-agent&v=recruiter-projects-1&mode=dark" width="100%" alt="Shuu selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F283490304%3Fv%3D4&repos=Shuumei%2Focr-dual-witness-pipeline%2CShuumei%2Fedge-privacy-csv-analyst%2CShuumei%2Fllm-structured-booking-agent&v=recruiter-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F283490304%3Fv%3D4&repos=Shuumei%2Focr-dual-witness-pipeline%2CShuumei%2Fedge-privacy-csv-analyst%2CShuumei%2Fllm-structured-booking-agent&v=recruiter-projects-2&mode=dark" width="100%" alt="Pinned open-source projects" />
 </picture>
 </td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Shuumei/ocr-dual-witness-pipeline">ocr-dual-witness-pipeline</a></h3>
-<p><strong>Multi-Agent Consensus Engine:</strong> Cross-validates outputs between 2 independent vision models with an automated consensus agreement gate for low-quality LCD digits without humans in the loop.</p>
-<p><sub>⭐ Strict TypeScript · 100% Client-Side BYOK</sub></p>
-<p><a href="https://ocr-dual-witness-pipeline.vercel.app">Launch Live Demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Shuumei/ocr-dual-witness-pipeline">View Repository →</a></p>
+<td width="45%" valign="top">
 
-<hr />
+**[ocr-dual-witness-pipeline](https://github.com/Shuumei/ocr-dual-witness-pipeline)**<br />
+The public version of Unyna's 7-segment reader: two independent reads must agree, otherwise confidence gating asks the user instead of guessing.<br />
+<sub><a href="https://ocr-dual-witness-pipeline.vercel.app">Live demo ↗</a></sub>
 
-<h3><a href="https://github.com/Shuumei/edge-privacy-csv-analyst">edge-privacy-csv-analyst</a></h3>
-<p><strong>Isolated Web Worker Query Engine:</strong> Passes only schema definitions to LLM; executes data analytics strictly in local browser threads so zero raw data leaves the machine.</p>
-<p><a href="https://edge-privacy-csv-analyst.vercel.app">Launch Live Demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Shuumei/edge-privacy-csv-analyst">View Repository →</a></p>
+**[edge-privacy-csv-analyst](https://github.com/Shuumei/edge-privacy-csv-analyst)**<br />
+Ask a spreadsheet questions in plain language. The work runs in browser Web Workers, and only summarized metadata ever reaches the LLM.<br />
+<sub><a href="https://edge-privacy-csv-analyst.vercel.app">Live demo ↗</a></sub>
 
-<hr />
+**[llm-structured-booking-agent](https://github.com/Shuumei/llm-structured-booking-agent)**<br />
+Strict JSON Schema extraction drives a deterministic state machine with interval-overlap conflict checks, so double-booking can't happen · 19 Vitest unit tests.<br />
+<sub><a href="https://llm-structured-booking-agent.vercel.app">Live demo ↗</a></sub>
 
-<h3><a href="https://github.com/Shuumei/llm-structured-booking-agent">llm-structured-booking-agent</a></h3>
-<p><strong>Deterministic FSM Scheduler:</strong> Extracts intent to validated Zod schemas, handing scheduling logic to a mathematical conflict state machine to eliminate double booking.</p>
-<p><a href="https://llm-structured-booking-agent.vercel.app">Launch Live Demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Shuumei/llm-structured-booking-agent">View Repository →</a></p>
 </td>
 </tr>
 </table>
 
 ---
 
-## ⚡ Commercial Production Track Record
+## 🧭 How I build with LLMs
 
-Architected, implemented, and deployed under **UNYHUB AUTOMATION**:
+> *"Deterministic when possible, probabilistic only when necessary."*
 
-- 💳 **[Bainy](https://bainy.unyhub.org)** (`bainy.unyhub.org`) — **LINE-Native Accounting SaaS & AI Agent**
-  - **Mini-CFO Conversational Agent:** Real-time cash flow advisory, sales analytics, and automated financial insights via messaging interface.
-  - **Smart Receipt OCR:** Resilient image preprocessing pipeline (Sharp) + Google Gemini extracting invoices and VAT 7% directly into Supabase.
-  - **Traction & Monetization:** Integrated with Beam Payment Gateway handling paying active subscribers.
-- 🩺 **[Unyna](https://unyna.unyhub.org)** (`unyna.unyhub.org`) — **LINE Health Assistant (900+ Active Users)**
-  - **Dual-Witness Vision Pipeline:** Combines OpenAI and Google Cloud Vision to cross-verify blood pressure LCD digits, eliminating hallucinations.
-  - **Health Alert Engine:** Proactive longitudinal analysis generating scheduled reminders and clinical follow-up alerts.
-- ⚡ **[Many](https://many.unyhub.org)** (`many.unyhub.org`) — **High-Throughput Social Automation Engine**
-  - **Deterministic Rule Engine:** High-scale comment parsing and direct Instagram DM conversational funnel.
-  - **Zero-Token Latency:** Engineered with Trie keyword matching and regex without LLM dependencies to achieve single-digit millisecond latency and auditability.
-- 🛡️ **SHUUVIS** — **Autonomous Operational Agent & Incident Watcher**
-  - Continuous 24/7 production watcher on Cloudflare monitoring LINE/Discord webhooks, analyzing telemetry, and drafting PR fixes with human-in-the-loop approval.
+- **The model classifies; code does the arithmetic.** Every number is computed in code and checked by a schema (Zod) before it is saved.
+- **A second reader that can object.** When a wrong answer is costly, a second read has to agree, and if it doesn't the user decides.
+- **A human gate before production.** Agents may draft the fix, but nothing merges or deploys without approval.
 
 ---
 
-## 💻 Technical Toolkit
+## 💻 Toolkit
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Shuu technology stack card" />
-</picture>
-</p>
+<sub>Grouped by area. The <a href="https://metee.vercel.app/#stack">stack section of my portfolio</a> shows where each tool was used.</sub>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vite,astro,flutter,tailwind,bootstrap,threejs,blender,unity,cs&perline=15" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,py,php,laravel,postgres,supabase,mongodb,mysql,sqlite,redis,prisma,gcp,cloudflare,docker,git,bitbucket,figma,discord,postman&perline=19" />
-  </a>
-</p>
+**AI & LLM** &nbsp;
+<img src="https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Google%20Cloud%20Vision-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Vision" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
 
-#### **🤖 AI Systems, Vision & Local Models**
-<p align="left">
-  <img src="https://img.shields.io/badge/Anthropic%20Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini">
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Vision-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Vision">
-  <img src="https://img.shields.io/badge/Ollama%20(Local%20LLM)-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Zod%20Schema%20Validation-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod">
-  <img src="https://img.shields.io/badge/Web%20Workers%20API-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Web Workers API">
-  <img src="https://img.shields.io/badge/n8n%20Automation-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-</p>
+**Frontend** &nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+<img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="WebAssembly" />
 
-#### **⚡ Frontend, Mobile & 3D Interactive Web**
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript%20(Strict)-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Next.js%20(App%20Router)-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Astro%205-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS%20v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Three.js%20%2F%20R3F-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Blender%203D-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly">
-</p>
+**Backend & data** &nbsp;
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase%20(RLS)-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Upstash%20Redis-00E9A3?style=flat-square&logo=upstash&logoColor=black" alt="Upstash Redis" />
+<img src="https://img.shields.io/badge/PHP%20·%20Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
-#### **🗄️ Backend, Databases & ORM**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PHP%20%2F%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Supabase%20(RLS)-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Prisma%20ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-</p>
+**Cloud & ops** &nbsp;
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
+<img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 
-#### **☁️ Cloud Infrastructure, DevOps & Version Control**
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20Cloud%20(GCP)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
-  <img src="https://img.shields.io/badge/Cloudflare%20Workers%20%26%20KV-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Tailscale%20(Mesh%20VPN)-4B5563?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale">
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic Stack">
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry">
-</p>
-
-#### **🎨 Design, Collaboration & Protocols**
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Discord%20API%20%26%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  <img src="https://img.shields.io/badge/LINE%20Messaging%20API%20%26%20LIFF-00C300?style=for-the-badge&logo=line&logoColor=white" alt="LINE API">
-  <img src="https://img.shields.io/badge/Looker%20Studio%20(BI)-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio">
-  <img src="https://img.shields.io/badge/Meta%20Graph%20API-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Graph API">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</p>
-
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ ARCHITECTURE RADAR                                                                             │
-├──────────────────────────┬─────────────────────────────────────────────────────────────────────┤
-│ AI & Agentic Systems     │ Multi-Agent Consensus, Zod Validation, Function Calling / Tool Use │
-│ Frontend, Mobile & 3D    │ Next.js App Router, React 19, Vite, Flutter, Three.js, Unity, Astro │
-│ Backend & Databases      │ Node.js, Python, Laravel, PostgreSQL, MongoDB, Supabase, Redis      │
-│ Cloud, DevOps & Network  │ GCP, Cloudflare Workers/KV, Tailscale Mesh VPN, Docker, Bitbucket   │
-│ Tooling & Workflow       │ Claude Code (Daily Engineering), Git, Figma, Vercel, LINE, Discord  │
-└──────────────────────────┴─────────────────────────────────────────────────────────────────────┘
-```
+**Platforms & APIs** &nbsp;
+<img src="https://img.shields.io/badge/LINE%20Messaging%20API%20·%20LIFF-00C300?style=flat-square&logo=line&logoColor=white" alt="LINE Messaging API and LIFF" />
+<img src="https://img.shields.io/badge/Beam%20Payments-0f172a?style=flat-square" alt="Beam Payment Gateway" />
+<img src="https://img.shields.io/badge/Meta%20Graph%20API-0668E1?style=flat-square&logo=meta&logoColor=white" alt="Meta Graph API" />
+<img src="https://img.shields.io/badge/Discord%20API-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord API" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 
 ---
-
-## 🤝 Let’s talk about the next build
 
 <table width="100%">
 <tr>
-<td width="65%" valign="middle">
-<h2>Open to High-Impact Engineering Roles</h2>
-<p>Seeking opportunities as <strong>AI-Assisted Full-Stack Developer</strong>, <strong>AI Systems Architect</strong>, <strong>AI Solutions Engineer</strong>, or <strong>AI Product Engineer</strong> for ambitious teams building deterministic, production-grade agentic architectures.</p>
+<td width="62%" valign="middle">
+<h3>Let's talk about the next build</h3>
+<p>Open to <strong>AI-Assisted Full-Stack Developer</strong> and <strong>Applied AI / LLM Engineering</strong> roles on teams shipping AI features to real users. Available immediately, based in Bangkok.</p>
 </td>
-<td width="35%" valign="middle" align="right">
-  <a href="https://metee.vercel.app">Portfolio Website ↗</a><br />
-  <a href="https://linkedin.com/in/metee-th">LinkedIn Profile ↗</a><br />
-  <a href="mailto:metee.thoe@gmail.com">metee.thoe@gmail.com ↗</a><br />
-  <a href="https://github.com/Shuumei">github.com/Shuumei ↗</a>
+<td width="38%" valign="middle" align="right">
+  <a href="https://metee.vercel.app">Portfolio ↗</a><br />
+  <a href="mailto:metee.thoe@gmail.com">metee.thoe@gmail.com</a><br />
+  <a href="https://github.com/Shuumei">github.com/Shuumei</a>
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <sub>Designed with precision by Metee Thoenburin · Built with Deterministic & Agentic Principles · Powered by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
-</p>
