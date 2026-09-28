@@ -17,18 +17,10 @@
 </p>
 </td>
 <td width="36%" valign="middle" align="center">
-
-```text
-┌──────────────────────────────┐
-│    VERIFIED STATUS (2026)    │
-├──────────────┬───────────────┤
-│ Open Demos   │ 3 Live Systems│
-│ Active Users │ 900+ (Prod)   │
-│ Production   │ 2 Live SaaS   │
-│ Daily Engine │ Claude Code   │
-└──────────────┴───────────────┘
-```
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="220px" alt="Shuu animated ASCII portrait" />
+</picture>
 </td>
 </tr>
 </table>
@@ -228,6 +220,17 @@ Architected, implemented, and deployed under **UNYHUB AUTOMATION**:
 │ Tooling & Workflow       │ Claude Code (Daily Engineering), Git, Figma, Vercel, LINE, Discord  │
 └──────────────────────────┴─────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## 📈 Activity & Contribution Signal
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Shuumei contribution activity heatmap" />
+</picture>
+</p>
 
 ---
 
