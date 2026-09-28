@@ -32,22 +32,42 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-<h3>🎯 Role & Paradigm</h3>
+<h3>🎯 Role fit</h3>
 <p><strong>AI-Assisted Full-Stack Architect</strong><br>
-<sub>"Deterministic when possible, Probabilistic (LLM) only when necessary."</sub></p>
+<sub>Deterministic agentic systems & edge privacy architectures.</sub></p>
 </td>
 <td width="33%" valign="top">
-<h3>🔬 Public Verified Proof</h3>
-<p><strong>3 Client-Side Architecture Repos</strong><br>
-<sub>Multi-agent consensus, Web Workers isolation & Zod schema validation.</sub></p>
+<h3>🔬 Public proof</h3>
+<p><strong>3 Verified Live Repositories</strong><br>
+<sub>Zero-cost BYOK demos, automated unit tests, strict TypeScript.</sub></p>
 </td>
 <td width="33%" valign="top">
-<h3>⚡ Production Traction</h3>
-<p><strong>2 Commercial AI Products Live</strong><br>
-<sub>900+ LINE active users & Live paid subscription accounting SaaS.</sub></p>
+<h3>⚡ Commercial traction</h3>
+<p><strong>2 Production AI Products</strong><br>
+<sub>900+ active users & live paid subscription accounting SaaS.</sub></p>
 </td>
 </tr>
 </table>
+
+<p><sub>Designing deterministic agentic workflows, multi-agent consensus verification, and privacy-preserving edge architectures.</sub></p>
+
+## 📊 Proof at a Glance
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>3</strong><br /><sub>Live Open Systems</sub></td>
+<td width="25%" align="center"><strong>2</strong><br /><sub>Commercial SaaS in Prod</sub></td>
+<td width="25%" align="center"><strong>900+</strong><br /><sub>LINE Active Users</sub></td>
+<td width="25%" align="center"><strong>3.81</strong><br /><sub>GPA 1st Class Honours</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Shuu GitHub proof metrics" />
+</picture>
+</p>
 
 ---
 
@@ -69,40 +89,33 @@
 
 ---
 
-## 🔬 Featured Open Source Systems (Proof of Work)
-
-> Isolated engineering modules extracted directly from production challenges · Built with Strict TypeScript · 100% Client-side Execution (Zero-Cost & BYOK Architecture) with Automated Unit Tests.
+## 🔬 Featured Selected Work (Open Source Systems)
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
-<h3>1. <a href="https://github.com/Shuumei/ocr-dual-witness-pipeline">ocr-dual-witness</a></h3>
-<p><strong>Dual-Witness Gating Engine</strong></p>
-<p>Cross-validates outputs between 2 independent vision models with an automated consensus agreement gate for low-quality 7-segment LCD digits without human intervention.</p>
-<p>
-  <a href="https://ocr-dual-witness-pipeline.vercel.app">Live Demo ↗</a> &nbsp;·&nbsp; 
-  <a href="https://github.com/Shuumei/ocr-dual-witness-pipeline">Repository →</a>
-</p>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&repos=Shuumei%2Focr-dual-witness-pipeline%2CShuumei%2Fedge-privacy-csv-analyst%2CShuumei%2Fllm-structured-booking-agent&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&repos=Shuumei%2Focr-dual-witness-pipeline%2CShuumei%2Fedge-privacy-csv-analyst%2CShuumei%2Fllm-structured-booking-agent&v=recruiter-projects-1&mode=dark" width="100%" alt="Shuu selected projects" />
+</picture>
 </td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/Shuumei/ocr-dual-witness-pipeline">ocr-dual-witness-pipeline</a></h3>
+<p><strong>Multi-Agent Consensus Engine:</strong> Cross-validates outputs between 2 independent vision models with an automated consensus agreement gate for low-quality LCD digits without humans in the loop.</p>
+<p><sub>⭐ Strict TypeScript · 100% Client-Side BYOK</sub></p>
+<p><a href="https://ocr-dual-witness-pipeline.vercel.app">Launch Live Demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Shuumei/ocr-dual-witness-pipeline">View Repository →</a></p>
 
-<td width="33%" valign="top">
-<h3>2. <a href="https://github.com/Shuumei/edge-privacy-csv-analyst">edge-privacy-csv</a></h3>
-<p><strong>Zero-Leakage NL Query Engine</strong></p>
-<p>Sends only anonymized schema definitions to the LLM to generate computation code, then executes queries inside isolated client-side Web Workers—zero raw data leaves the browser.</p>
-<p>
-  <a href="https://edge-privacy-csv-analyst.vercel.app">Live Demo ↗</a> &nbsp;·&nbsp; 
-  <a href="https://github.com/Shuumei/edge-privacy-csv-analyst">Repository →</a>
-</p>
-</td>
+<hr />
 
-<td width="33%" valign="top">
-<h3>3. <a href="https://github.com/Shuumei/llm-structured-booking-agent">booking-agent</a></h3>
-<p><strong>Deterministic FSM Booking</strong></p>
-<p>Extracts conversational intents into validated Zod schemas while handing scheduling logic to a mathematical conflict detection state machine—completely preventing double bookings.</p>
-<p>
-  <a href="https://llm-structured-booking-agent.vercel.app">Live Demo ↗</a> &nbsp;·&nbsp; 
-  <a href="https://github.com/Shuumei/llm-structured-booking-agent">Repository →</a>
-</p>
+<h3><a href="https://github.com/Shuumei/edge-privacy-csv-analyst">edge-privacy-csv-analyst</a></h3>
+<p><strong>Isolated Web Worker Query Engine:</strong> Passes only schema definitions to LLM; executes data analytics strictly in local browser threads so zero raw data leaves the machine.</p>
+<p><a href="https://edge-privacy-csv-analyst.vercel.app">Launch Live Demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Shuumei/edge-privacy-csv-analyst">View Repository →</a></p>
+
+<hr />
+
+<h3><a href="https://github.com/Shuumei/llm-structured-booking-agent">llm-structured-booking-agent</a></h3>
+<p><strong>Deterministic FSM Scheduler:</strong> Extracts intent to validated Zod schemas, handing scheduling logic to a mathematical conflict state machine to eliminate double booking.</p>
+<p><a href="https://llm-structured-booking-agent.vercel.app">Launch Live Demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/Shuumei/llm-structured-booking-agent">View Repository →</a></p>
 </td>
 </tr>
 </table>
@@ -128,32 +141,14 @@ Architected, implemented, and deployed under **UNYHUB AUTOMATION**:
 
 ---
 
-## 🚀 What I'm Shipping (Active Pipeline & Focus)
+## 💻 Technical Toolkit
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🛠️ Live Engineering Pipeline</h3>
-<ul>
-  <li><strong>AI Root Cause Debug Analyst:</strong> Synthetic runtime error injection & deterministic stack trace triage demo.</li>
-  <li><strong>SHUUVIS v2:</strong> Cloudflare Worker agent gateway with low-latency LLM telemetry logging.</li>
-  <li><strong>TradingView Strategy Scripts:</strong> Quantitative statistical edge indicators.</li>
-</ul>
-</td>
-<td width="50%" valign="top">
-<h3>💡 Current Engineering Focus</h3>
-<ul>
-  <li><strong>Zero-Cost & BYOK Web Architectures:</strong> High-leverage client-side intelligence running entirely in-browser.</li>
-  <li><strong>Claude Code Mastery:</strong> Pushing agentic coding workflows to 10x developer throughput.</li>
-  <li><strong>Multi-Model Consensus:</strong> Eliminating AI blind spots through cross-witness verification.</li>
-</ul>
-</td>
-</tr>
-</table>
-
----
-
-## 💻 Skills & Technology Stack
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=Shuumei&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F8142045%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Shuu technology stack card" />
+</picture>
+</p>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -253,17 +248,18 @@ Architected, implemented, and deployed under **UNYHUB AUTOMATION**:
 <table width="100%">
 <tr>
 <td width="65%" valign="middle">
-<p>Open to impactful roles as <strong>AI-Assisted Full-Stack Developer</strong>, <strong>AI Systems Architect</strong>, <strong>AI Solutions Engineer</strong>, or <strong>AI Product Engineer</strong> for high-velocity teams building reliable, deterministic, and business-critical AI systems.</p>
+<h2>Open to High-Impact Engineering Roles</h2>
+<p>Seeking opportunities as <strong>AI-Assisted Full-Stack Developer</strong>, <strong>AI Systems Architect</strong>, <strong>AI Solutions Engineer</strong>, or <strong>AI Product Engineer</strong> for ambitious teams building deterministic, production-grade agentic architectures.</p>
 </td>
 <td width="35%" valign="middle" align="right">
-  🌐 <strong>Portfolio:</strong> <a href="https://metee.vercel.app">metee.vercel.app</a><br>
-  💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/metee-th">in/metee-th</a><br>
-  📫 <strong>Email:</strong> <a href="mailto:metee.thoe@gmail.com">metee.thoe@gmail.com</a><br>
-  📍 <strong>Location:</strong> Bangkok, Thailand
+  <a href="https://metee.vercel.app">Portfolio Website ↗</a><br />
+  <a href="https://linkedin.com/in/metee-th">LinkedIn Profile ↗</a><br />
+  <a href="mailto:metee.thoe@gmail.com">metee.thoe@gmail.com ↗</a><br />
+  <a href="https://github.com/Shuumei">github.com/Shuumei ↗</a>
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <sub>Designed with precision by Metee Thoenburin · Built with Deterministic & Agentic Principles</sub>
+  <sub>Designed with precision by Metee Thoenburin · Built with Deterministic & Agentic Principles · Powered by <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
 </p>
