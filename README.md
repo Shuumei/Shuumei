@@ -2,7 +2,7 @@
 
 <table width="100%">
 <tr>
-<td width="66%" valign="middle">
+<td width="64%" valign="middle">
 <p><sub>RECRUITER & ARCHITECTURE SIGNAL BRIEF · Shuumei</sub></p>
 <h1>Metee Thoenburin (Shuu)</h1>
 <h3>AI Systems Architect · Co-Founder & Founding Engineer @ <a href="https://unyhub.org" target="_blank">UNYHUB AUTOMATION</a></h3>
@@ -16,8 +16,19 @@
   <img src="https://img.shields.io/badge/1st%20Class%20Honours-GPA%203.81%20%7C%20KKU-10B981?style=flat-square&logo=academia&logoColor=white" alt="Honours">
 </p>
 </td>
-<td width="34%" valign="middle" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shuumei&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+<td width="36%" valign="middle" align="center">
+
+```text
+┌──────────────────────────────┐
+│    VERIFIED STATUS (2026)    │
+├──────────────┬───────────────┤
+│ Open Demos   │ 3 Live Systems│
+│ Active Users │ 900+ (Prod)   │
+│ Production   │ 2 Live SaaS   │
+│ Daily Engine │ Claude Code   │
+└──────────────┴───────────────┘
+```
+
 </td>
 </tr>
 </table>
@@ -35,8 +46,8 @@
 </td>
 <td width="33%" valign="top">
 <h3>🔬 Public Verified Proof</h3>
-<p><strong>3 Client-Side Architecture Demos</strong><br>
-<sub>Multi-agent consensus, Web Workers isolation & Zod validation.</sub></p>
+<p><strong>3 Client-Side Architecture Repos</strong><br>
+<sub>Multi-agent consensus, Web Workers isolation & Zod schema validation.</sub></p>
 </td>
 <td width="33%" valign="top">
 <h3>⚡ Production Traction</h3>
@@ -62,20 +73,20 @@
 ```
 
 > **Engineering Thesis:** *"Deterministic when possible, Probabilistic (LLM) only when necessary."*  
-> ในระบบระดับ Production การพึ่งพา LLM ตัดสินใจทุกขั้นตอนสร้างทั้งความไม่แน่นอน (Hallucination), Latency สูง และค่า Token บานปลาย ผมจึงออกแบบระบบโดยวาง **Strict Schema Validation (Zod), Multi-Agent Consensus Gating และ Finite State Machines (FSM)** ไว้คุมแกนกลาง ให้ LLM ทำเฉพาะงานสกัด Intent และ Unstructured Data เท่านั้น
+> Relying on LLMs for end-to-end decisions in production leads to hallucination risks, unmaintainable token costs, and high latency. I design systems where **Strict Schema Validation (Zod), Multi-Agent Consensus Gating, and Finite State Machines (FSM)** form the deterministic core—confining LLMs exclusively to structured extraction and unstructured intent processing.
 
 ---
 
 ## 🔬 Featured Open Source Systems (Proof of Work)
 
-> คลังโมดูลที่สกัดออกมาจากปัญหาทางวิศวกรรมจริงบน Production · พัฒนาด้วย Strict TypeScript · รันบน Client-Side 100% (Zero-Cost & BYOK Architecture) พร้อม Automated Unit Tests
+> Isolated engineering modules extracted directly from production challenges · Built with Strict TypeScript · 100% Client-side Execution (Zero-Cost & BYOK Architecture) with Automated Unit Tests.
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 <h3>1. <a href="https://github.com/Shuumei/ocr-dual-witness-pipeline">ocr-dual-witness</a></h3>
 <p><strong>Dual-Witness Gating Engine</strong></p>
-<p>เปรียบเทียบผลลัพธ์ระหว่าง 2 Vision Models อิสระ พร้อม Agreement Gate สกัดค่าจอ LCD 7-segment ป้องกันความผิดพลาดโดยไม่ต้องพึ่งพามนุษย์</p>
+<p>Cross-validates outputs between 2 independent vision models with an automated consensus agreement gate for low-quality 7-segment LCD digits without human intervention.</p>
 <p>
   <a href="https://ocr-dual-witness-pipeline.vercel.app">Live Demo ↗</a> &nbsp;·&nbsp; 
   <a href="https://github.com/Shuumei/ocr-dual-witness-pipeline">Repository →</a>
@@ -84,8 +95,8 @@
 
 <td width="33%" valign="top">
 <h3>2. <a href="https://github.com/Shuumei/edge-privacy-csv-analyst">edge-privacy-csv</a></h3>
-<p><strong>Zero-Leakage NL Query</strong></p>
-<p>สกัดเฉพาะ Schema ส่งให้ LLM สร้างชุดคำสั่ง แล้ว execute การคำนวณผ่าน Web Worker ในเครื่องผู้ใช้ — ข้อมูลดิบไม่รั่วไหลออกสู่อินเทอร์เน็ต 100%</p>
+<p><strong>Zero-Leakage NL Query Engine</strong></p>
+<p>Sends only anonymized schema definitions to the LLM to generate computation code, then executes queries inside isolated client-side Web Workers—zero raw data leaves the browser.</p>
 <p>
   <a href="https://edge-privacy-csv-analyst.vercel.app">Live Demo ↗</a> &nbsp;·&nbsp; 
   <a href="https://github.com/Shuumei/edge-privacy-csv-analyst">Repository →</a>
@@ -95,7 +106,7 @@
 <td width="33%" valign="top">
 <h3>3. <a href="https://github.com/Shuumei/llm-structured-booking-agent">booking-agent</a></h3>
 <p><strong>Deterministic FSM Booking</strong></p>
-<p>ใช้ LLM สกัด Intent เข้า Zod Schema แต่ส่งต่อให้ Deterministic FSM คำนวณช่วงเวลาและตรวจคิวชนด้วยคณิตศาสตร์ ป้องกัน Double Booking เด็ดขาด</p>
+<p>Extracts conversational intents into validated Zod schemas while handing scheduling logic to a mathematical conflict detection state machine—completely preventing double bookings.</p>
 <p>
   <a href="https://llm-structured-booking-agent.vercel.app">Live Demo ↗</a> &nbsp;·&nbsp; 
   <a href="https://github.com/Shuumei/llm-structured-booking-agent">Repository →</a>
@@ -108,20 +119,20 @@
 
 ## ⚡ Commercial Production Track Record
 
-ระบบซอฟต์แวร์จริงที่ออกแบบ สถาปัตย์ และขึ้นระบบ Production ภายใต้ **UNYHUB AUTOMATION**:
+Architected, implemented, and deployed under **UNYHUB AUTOMATION**:
 
 - 💳 **[Bainy](https://bainy.unyhub.org)** (`bainy.unyhub.org`) — **LINE-Native Accounting SaaS & AI Agent**
-  - **Mini-CFO AI Agent:** ให้คำปรึกษา วิเคราะห์ยอดขาย สรุป Cash Flow และแนวโน้มรายรับ-รายจ่ายผ่านแชท
-  - **Smart Receipt OCR:** ไปป์ไลน์ Image Preprocessing (Sharp) + Google Gemini สกัดบิล/สลิป และภาษี VAT 7% ลงฐานข้อมูล Supabase อัตโนมัติ
-  - **Traction & Monetization:** เชื่อมต่อ Beam Payment Gateway มีผู้ใช้งานจริงแบบ Paid Subscription
+  - **Mini-CFO Conversational Agent:** Real-time cash flow advisory, sales analytics, and automated financial insights via messaging interface.
+  - **Smart Receipt OCR:** Resilient image preprocessing pipeline (Sharp) + Google Gemini extracting invoices and VAT 7% directly into Supabase.
+  - **Traction & Monetization:** Integrated with Beam Payment Gateway handling paying active subscribers.
 - 🩺 **[Unyna](https://unyna.unyhub.org)** (`unyna.unyhub.org`) — **LINE Health Assistant (900+ Active Users)**
-  - **Dual-Witness Vision Pipeline:** ผสาน OpenAI และ Google Cloud Vision ร่วมกันตรวจสอบตัวเลขจากจอ LCD 7-Segment ของเครื่องวัดความดัน ป้องกันปัญหา AI Hallucination
-  - **Health Alert Engine:** ระบบวิเคราะห์แนวโน้มสุขภาพ พร้อมแจ้งเตือนรอบตรวจวัดประจำวันและวันนัดพบแพทย์อัตโนมัติ
+  - **Dual-Witness Vision Pipeline:** Combines OpenAI and Google Cloud Vision to cross-verify blood pressure LCD digits, eliminating hallucinations.
+  - **Health Alert Engine:** Proactive longitudinal analysis generating scheduled reminders and clinical follow-up alerts.
 - ⚡ **[Many](https://many.unyhub.org)** (`many.unyhub.org`) — **High-Throughput Social Automation Engine**
-  - **Deterministic Rule Engine:** ระบบตอบกลับคอมเมนต์และส่งต่อเป็น Instagram DM อัตโนมัติสำหรับแบรนด์
-  - **Zero-Token Latency:** ออกแบบด้วย Rule-based Regex & Keyword Trie Matching โดยตั้งใจไม่ใช้ LLM เพื่อลด Latency เหลือระดับมิลลิวินาที ลดค่าใช้จ่าย และ Audit ย้อนหลังได้ทุกข้อความ
+  - **Deterministic Rule Engine:** High-scale comment parsing and direct Instagram DM conversational funnel.
+  - **Zero-Token Latency:** Engineered with Trie keyword matching and regex without LLM dependencies to achieve single-digit millisecond latency and auditability.
 - 🛡️ **SHUUVIS** — **Autonomous Operational Agent & Incident Watcher**
-  - ศูนย์เฝ้าระวัง Production 24/7 บน Cloudflare เฝ้าดูสัญญาณ LINE/Discord วิเคราะห์ Incident และร่างแก้ไขเป็น Pull Request ให้ตรวจสอบก่อน Merge (Human-in-the-loop)
+  - Continuous 24/7 production watcher on Cloudflare monitoring LINE/Discord webhooks, analyzing telemetry, and drafting PR fixes with human-in-the-loop approval.
 
 ---
 
@@ -218,10 +229,6 @@
 └──────────────────────────┴─────────────────────────────────────────────────────────────────────┘
 ```
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuumei&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🤝 Let’s talk about the next build
@@ -229,7 +236,7 @@
 <table width="100%">
 <tr>
 <td width="65%" valign="middle">
-<p>พร้อมร่วมงานในบทบาท <strong>AI Systems Architect</strong>, <strong>AI Solutions Engineer</strong>, หรือ <strong>AI Product Engineer</strong> สำหรับองค์กรและทีมเทคโนโลยีที่ต้องการสร้างระบบ AI ประสิทธิภาพสูง เสถียร และสร้าง Impact ต่อธุรกิจได้จริง</p>
+<p>Open to impactful roles as <strong>AI-Assisted Full-Stack Developer</strong>, <strong>AI Systems Architect</strong>, <strong>AI Solutions Engineer</strong>, or <strong>AI Product Engineer</strong> for high-velocity teams building reliable, deterministic, and business-critical AI systems.</p>
 </td>
 <td width="35%" valign="middle" align="right">
   🌐 <strong>Portfolio:</strong> <a href="https://metee.vercel.app">metee.vercel.app</a><br>
